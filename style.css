@@ -255,7 +255,7 @@ padding: 0;
 /* menu section styling */
 .menu-section{
     color: var(--white-color);
-    background: var(--dark-color);
+    background: gray;
     padding: 50px 0 100px;
 }
 .menu-section .menu-list{
