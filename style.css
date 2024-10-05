@@ -533,6 +533,7 @@ color: var(--white-color);
     }
     .menu-section .menu-list .menu-item{
         width: 100%;
+        justify-content: space-around;
     }
    
     .menu-section .menu-list .menu-item .menu-image{
